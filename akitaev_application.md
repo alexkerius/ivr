@@ -1,4 +1,4 @@
-## VK: https://vk.ru/lexnkit
+<h3> VK: https://vk.ru/lexnkit </h3>
 
 ## ЗАЯВКА
 ## [НАЗВАНИЕ ПРОЕКТА]
